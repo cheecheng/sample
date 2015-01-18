@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Creared by Spring Boot.
+ * Direct edit on Github.
  * 
  * @author ccheng
  *
