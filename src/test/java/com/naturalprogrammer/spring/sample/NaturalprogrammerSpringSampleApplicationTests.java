@@ -1,4 +1,4 @@
-package demo;
+package com.naturalprogrammer.spring.sample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
